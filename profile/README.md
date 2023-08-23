@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, bee 👋
 
 <!--
 
@@ -10,11 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Hi there, bee 👋
+
  
  Welcome to our hive, where the future building blocks for bitcoin are laid.
 
-Driving force for Alby is to build bridges - between users and apps, the web and Bitcoin, and most importantly, between technological freedom and innovation. We envision a world where Bitcoin experience is seamless, transparent, and accessible to all. That's why we hope our tools will help builders to innovate with ease and make anything possible in Bitcoin.
+Driving force for Alby is to build bridges 🌉 - between users and apps, the web and Bitcoin, and most importantly, between technological freedom and innovation. 
+We envision a world where Bitcoin experience is seamless, transparent, and accessible to all. That's why we hope our tools will help builders to innovate with ease and **make anything possible in Bitcoin.**
 
 
 Key Features:
