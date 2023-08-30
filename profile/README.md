@@ -28,7 +28,7 @@ We envision a world where bitcoin experience is seamless, transparent, and acces
 
 We equip users and developers with tools and APIs for effortlessly integrating Bitcoin into apps and web platforms, eliminating the complexities of direct Bitcoin handling. Initiated as an open-source endeavor, we continue to co-create and refine our tools in collaboration with the community. 👥
 
-Are you a developer? Check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalby.com/developerS)** 👨‍💻 - it is the Bitcoin & Nostr toolkit for you, overview of our tools.
+Are you a developer? Check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalby.com/developer)** 👨‍💻 - it is the Bitcoin & Nostr toolkit for you, overview of our tools.
 
 ### Our projects:
 
