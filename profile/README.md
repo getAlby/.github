@@ -1,4 +1,4 @@
-## Hi there, bee 🐝
+## Hi there! 🐝
 
 <!--
 
@@ -14,7 +14,8 @@
  
 👋 Welcome to Alby, where the future building blocks for bitcoin are laid.
 
-Our mission is to build bridges - between users and apps, the web and Bitcoin, and most importantly, between technological freedom and innovation. 
+We are team of few people and dozen of contributors. You are welcome to become one of them!
+Our **mission** is to build bridges - between users and apps, the web and Bitcoin, and most importantly, between technological freedom and innovation. 
 We envision a world where bitcoin experience is seamless, transparent, and accessible to all. That's why we hope our tools will help builders to innovate with ease and **make anything possible in Bitcoin.**
 
 
@@ -23,18 +24,22 @@ We envision a world where bitcoin experience is seamless, transparent, and acces
 
 - 🔄 **APIs:** Facilitate easy and hassle-free Bitcoin integrations.
 - 🌍 **Open-Source:** Born from the community, evolving for the community.
-- 🛡️ **Secure Processes:** Ensuring the safety and integrity of every Bitcoin transaction. 
+- 🛡️ **Secure Processes:** Ensuring the safety and integrity of Bitcoin transactions and Nostr events, enabling users to store & use their private keys safely. 
 
 We equip users and developers with tools and APIs for effortlessly integrating Bitcoin into apps and web platforms, eliminating the complexities of direct Bitcoin handling. Initiated as an open-source endeavor, we continue to co-create and refine our tools in collaboration with the community. 👥
 
-### Our main projects:
+Are you a developer? Check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalby.com/developerS)** 👨‍💻 - it is the Bitcoin & Nostr toolkit for you, overview of our tools.
 
-- 🌐 **Alby Browser Extension:** Lightning integration to the web, wallet management & control, keys handling. 
-- 📲 **Nostr Wallet Connect:** Connect apps to control lightning node or wallet over Nostr (NIP-47). 
-- 🛠️ **Lightning Tools:** Set of helpful tools to develop lightning web apps. 
-- 🔌 **Alby JS SDK:** JavaScript SDK for the Alby OAuth2 Wallet API & the Nostr Wallet Connect API. 
-- 📊 **LndHub.go:** Accounting wrapper for the Lightning Network, provides separate accounts for end-users. 
-- 📦 **Pkgzap**: Tip npm packages and their dependencies. 
+### Our projects:
+
+- 🌐 **Alby Browser Extension:** Lightning integration to the web, wallet management & control, keys handling
+- 📲 **Nostr Wallet Connect:** Connect apps to control lightning node or wallet over Nostr (NIP-47)
+- 🔗 **Bitcoin Connect:** COMING SOON, STAY TUNED!
+- 🛠️ **Lightning Tools:** Set of helpful tools to develop lightning web apps
+- 🔌 **Alby JS SDK:** JavaScript SDK for the Alby OAuth2 Wallet API & the Nostr Wallet Connect API 
+- 📊 **LndHub.go:** Accounting wrapper for the Lightning Network, provides separate accounts for end-users
+- 🎙️ **[Podcasting 2.0](https://blog.getalby.com/bitcoin-payments-for-podcasters-with-alby/):** Implementing new forms of monetization for podcasters and listeners' engagement
+- 👨‍🔬 **Alby labs**: Various innovative tools - [recurrent lightning payments](https://zapplanner.albylabs.com/), [Zapsplitter](https://zapsplitter.fly.dev/),  [boostagram dashboard](https://saturn.fly.dev/), [PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, Liquimercado: [LND](https://liquimercado-lnd.getalby.repl.co/) & [c-LN](https://liquimercado-cln.getalby.repl.co/) node web manager, [Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com), [WebLN Experiments](https://webln.twentyuno.net/invoice) and others
 
 
 
