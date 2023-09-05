@@ -45,8 +45,8 @@ Are you a developer? Check out our 👨‍💻 **[DEVELOPER PORTAL](https://geta
 
 <p align="center">
   <picture>
-    <source srcset="/doc/logo-white.svg" media="(prefers-color-scheme: dark)" width="300">
-    <img alt="Alby Logo" src="/doc/logo-black.svg" width="300">
+    <source srcset="https://raw.githubusercontent.com/getAlby/lightning-browser-extension/51430e7d6b6076f6f336269acb1dc3928c4ced0f/doc/logo-white.svg" media="(prefers-color-scheme: dark)" width="300">
+    <img alt="Alby Logo" src="https://raw.githubusercontent.com/getAlby/lightning-browser-extension/51430e7d6b6076f6f336269acb1dc3928c4ced0f/doc/logo-black.svg" width="300">
   </picture>
 </p>
 
