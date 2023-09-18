@@ -41,8 +41,8 @@ For docs and APIs, check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalb
 - 🔌 **[Alby JS SDK](https://github.com/getAlby/js-sdk):** JavaScript SDK for the Alby OAuth2 Wallet API & the Nostr Wallet Connect API 
 - 📊 **[LndHub.go](https://github.com/getAlby/lndhub.go):** Accounting wrapper for the Lightning Network, provides separate accounts for end-users
 - 🎙️ **[Podcasting 2.0](https://blog.getalby.com/bitcoin-payments-for-podcasters-with-alby/):** Implementing new forms of monetization for podcasters and listeners' engagement
-- 👨‍🔬 **Alby labs**: Various innovative tools - [recurrent lightning payments](https://zapplanner.albylabs.com/), [Zapsplitter](https://zapsplitter.fly.dev/),  [boostagram dashboard](https://saturn.fly.dev/), [PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, Liquimercado: [LND](https://liquimercado-lnd.getalby.repl.co/) & [c-LN](https://liquimercado-cln.getalby.repl.co/) node web manager, [Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com), [WebLN Experiments](https://webln.twentyuno.net/invoice) and others
-
+- 👨‍🔬 **Alby labs**: Various innovative tools - ⚡[ZapPlanner - recurrent lightning payments](https://zapplanner.albylabs.com/), ⚡[Zapsplitter](https://zapsplitter.fly.dev/), ⚡[SATurn boostagram dashboard](https://saturn.fly.dev/), ⚡[PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, ⚡Liquimercado: [LND](https://liquimercado-lnd.getalby.repl.co/) & [c-LN](https://liquimercado-cln.getalby.repl.co/) node web manager, ⚡[Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com), ⚡[Zapdos](https://zapdos.albylabs.com/) Lightning overlays on videostreams,⚡[WebLN Experiments](https://webln.twentyuno.net/invoice) and others
+ 
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/getAlby/lightning-browser-extension/51430e7d6b6076f6f336269acb1dc3928c4ced0f/doc/logo-white.svg" media="(prefers-color-scheme: dark)" width="300">
