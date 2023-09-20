@@ -53,6 +53,16 @@ For docs and APIs, check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalb
 
 Join us on this exciting Bitcoin adoption & innovation journey! 🚀🌌
 
+Wanna talk?
+👥 Every second Thursday we are hosting our [Community Calls](https://communitycall.getalby.com), in which our team, users and builders join to discuss updates in the space, demo new projects and hang out with our community. We stream them on #Nostr.
+📞 For any other question can also book private calls with our core contributors.
+
+<p align="center">
+ <a href="https://cal.com/getalby">
+<img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" /></a>
+</p>
+
+
 Whether you're looking to integrate, contribute, or just explore, this repository is for you. Together, let's shape the future of Bitcoin integration, fostering a perfect harmony between freedom and tech.
 
 
