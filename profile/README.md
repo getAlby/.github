@@ -1,5 +1,19 @@
 ## Hi there! 👋
 
+############## HACKTOBERFEST 2023 ##############
+
+Alby [calls](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for developers contribution to the open-source bitcoin, lightning and nostr projects. Celebrating [Hacktoberfest](https://hacktoberfest.com/), we are rewarding **all** developers who will have their PRs/MRs accepted this month!
+
+############## CONTRIBUTE TO BITCOIN ##############
+
+##############
+
+##########
+
+#####
+
+
+#
 
 <!--
 
