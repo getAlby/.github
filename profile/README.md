@@ -6,9 +6,6 @@ Alby [calls](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this
 
 ############## CONTRIBUTE TO BITCOIN ##############
 
-##############
-
-##########
 
 #####
 
