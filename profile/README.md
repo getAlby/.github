@@ -1,30 +1,6 @@
 ## Hi there! 👋
 
-############## HACKTOBERFEST 2023 ##############
-
-Alby [calls](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for developers contribution to the open-source bitcoin, lightning and nostr projects. Celebrating [Hacktoberfest](https://hacktoberfest.com/), we are rewarding **all** developers who will have their PRs/MRs accepted this month!
-
-############## CONTRIBUTE TO BITCOIN ##############
-
-
-#####
-
-
-#
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
- 
- Welcome to Alby, where the future building blocks for bitcoin are laid.
+Welcome to Alby, where the future building blocks for bitcoin are laid.
 🐝
 We are a small team with dozens of contributors. You are welcome to become one of them!
 Our **mission** is to build bridges - between users and apps, the web and Bitcoin, and most importantly, between technological freedom and innovation. 
