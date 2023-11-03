@@ -23,7 +23,7 @@ For docs and APIs, check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalb
 
 - 🌐 **[Alby Browser Extension](https://chrome.google.com/webstore/detail/alby-bitcoin-lightning-wa/iokeahhehimjnekafflcihljlcjccdbe):** Lightning integration to the web, wallet management & control, keys handling
 - 📲 **[Nostr Wallet Connect](https://github.com/getAlby/nostr-wallet-connect):** Connect apps to control lightning node or wallet over Nostr (NIP-47)
-- 🔗 **Bitcoin Connect:** COMING SOON, STAY TUNED!
+- 🔗 **[Bitcoin Connect](https://bitcoin-connect.com/):** Enable users to connect their wallet to lightning-powered websites on any browser 
 - 🛠️ **[Lightning Tools](https://github.com/getAlby/js-lightning-tools):** Set of helpful tools to develop lightning web apps
 - 🔌 **[Alby JS SDK](https://github.com/getAlby/js-sdk):** JavaScript SDK for the Alby OAuth2 Wallet API & the Nostr Wallet Connect API 
 - 📊 **[LndHub.go](https://github.com/getAlby/lndhub.go):** Accounting wrapper for the Lightning Network, provides separate accounts for end-users
