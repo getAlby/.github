@@ -18,6 +18,7 @@ We envision a world where bitcoin experience is seamless, transparent, and acces
 We equip users and developers with tools and APIs for effortlessly integrating Bitcoin into apps and web platforms, eliminating the complexities of direct Bitcoin handling. Initiated as an open-source endeavor, we continue to co-create and refine our tools in collaboration with the community. 👥
 
 For docs and APIs, check out our 👨‍💻 **[DEVELOPER PORTAL](https://getalby.com/developer)** 👨‍💻 - it is the Bitcoin & Nostr toolkit for you, overview of our tools.
+For user guides and developer guides, check out 🤓 **[ALBY GUIDES](https://guides.getalby.com/user-guide/)** - where you can find answers to FAQ and various how-tos. 
 
 ### Our projects:
 
@@ -62,5 +63,7 @@ Whether you're looking to integrate, contribute, or just explore, this repositor
 
 📝 [Feedback](https://feedback.getalby.com/-feature-request)
 
-🎨 [Design guidelines and files](https://github.com/getAlby/media)
+🎨 [Design guidelines and files, logo, graphics](https://github.com/getAlby/media)
+
+📶 [Availability of our systems](https://getalby.checkly-dashboards.com/?duration=30d)https://getalby.checkly-dashboards.com/?duration=30d
 
