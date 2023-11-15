@@ -65,5 +65,5 @@ Whether you're looking to integrate, contribute, or just explore, this repositor
 
 🎨 [Design guidelines and files, logo, graphics](https://github.com/getAlby/media)
 
-📶 [Availability of our systems](https://getalby.checkly-dashboards.com/?duration=30d)https://getalby.checkly-dashboards.com/?duration=30d
+📶 [Operarional status of our systems](https://alby.instatus.com/)
 
