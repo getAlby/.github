@@ -42,7 +42,7 @@ For user guides and developer guides, check out 🤓 **[ALBY GUIDES](https://gui
 Join us on this exciting Bitcoin adoption & innovation journey! 🚀🌌
 
 Wanna talk?
-👥 Every second Thursday we are hosting our [Community Calls](https://communitycall.getalby.com), in which our team, users and builders join to discuss updates in the space, demo new projects and hang out with our community. We stream them on #Nostr.
+👥 Every second Thursday we are hosting our [Community Calls](https://cal.com/getalby/communitycall), in which our team, users and builders join to discuss updates in the space, demo new projects and hang out with our community. We stream them on #Nostr.
 📞 For any other question can also book private calls with our core contributors.
 
 <p align="center">
@@ -61,9 +61,9 @@ Whether you're looking to integrate, contribute, or just explore, this repositor
 
 🐦 [Twitter](http://x.com/getalby)
 
-📝 [Feedback](https://feedback.getalby.com/-feature-request)
+📝 [Feedback](https://getalby.com/feedback)
 
-🎨 [Design guidelines and files, logo, graphics](https://github.com/getAlby/media)
+🎨 [Brand kit](https://info.getalby.com/brandkit)
 
 📶 [Operarional status of our systems](https://alby.instatus.com/)
 
