@@ -31,8 +31,8 @@ For user guides and developer guides, check out 🤓 **[ALBY GUIDES](https://gui
 - 🎙️ **[Podcasting 2.0](https://blog.getalby.com/bitcoin-payments-for-podcasters-with-alby/):** Implementing new forms of monetization for podcasters and listeners' engagement
 - 👨‍🔬 **Alby labs**: Various innovative tools - ⚡[ZapPlanner - recurrent lightning payments](https://zapplanner.albylabs.com/),  ⚡[SATurn boostagram dashboard](https://saturn.fly.dev/), ⚡[PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, ⚡[Alby CSV exporter](https://csv.albylabs.com/), ⚡[Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com) Lightning overlays on videostreams,⚡[WebLN Experiments](https://webln.twentyuno.net/invoice) and others
  
-#⚡[Zapsplitter](https://zapsplitter.fly.dev/), ⚡[Zapdos](https://zapdos.albylabs.com/), ⚡Liquimercado: [LND](https://liquimercado-lnd.getalby.repl.co/) & [c-LN](https://liquimercado-cln.getalby.repl.co/) node web manager, 
 
+<!-- ⚡[Zapsplitter](https://zapsplitter.fly.dev/), ⚡[Zapdos](https://zapdos.albylabs.com/), ⚡Liquimercado: [LND](https://liquimercado-lnd.getalby.repl.co/) & [c-LN](https://liquimercado-cln.getalby.repl.co/) node web manager,  -->
 
 <p align="center">
   <picture>
