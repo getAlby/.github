@@ -68,5 +68,5 @@ Whether you're looking to integrate, contribute, or just explore, this repositor
 
 🎨 [Brand kit](https://info.getalby.com/brandkit)
 
-📶 [Operarional status of our systems](https://alby.instatus.com/)
+📶 [Operational status of our systems](https://alby.instatus.com/)
 
