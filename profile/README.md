@@ -22,6 +22,7 @@ For user guides and developer guides, check out 🤓 **[ALBY GUIDES](https://gui
 
 ### Our projects:
 
+- ✨ **[Alby Hub](https://albyhub.com):** Self-custodial Lightning node with easy channel management, subwallets, NWC app connections and other features
 - 🌐 **[Alby Browser Extension](https://chrome.google.com/webstore/detail/alby-bitcoin-lightning-wa/iokeahhehimjnekafflcihljlcjccdbe):** Lightning integration to the web, wallet management & control, keys handling
 - 📲 **[Nostr Wallet Connect](https://nwc.dev):** Connect apps to control lightning node or wallet over Nostr (NIP-47)
 - 🔗 **[Bitcoin Connect](https://bitcoin-connect.com/):** Enable users to connect their wallet to lightning-powered websites on any browser 
