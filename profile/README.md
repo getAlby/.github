@@ -59,11 +59,11 @@ Whether you're looking to integrate, contribute, or just explore, this repositor
 
 
 ### Useful links
-💬 [Community chat](https://t.me/getalby)
+💬 [Community Discord](https://discord.getalby.com)
 
 🟪 [Nostr](https://nostr.com/npub1getal6ykt05fsz5nqu4uld09nfj3y3qxmv8crys4aeut53unfvlqr80nfm)
 
-🐦 [Twitter](http://x.com/getalby)
+🐦 [X/Twitter](http://x.com/getalby)
 
 📝 [Feedback](https://getalby.com/feedback)
 
