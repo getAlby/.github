@@ -30,8 +30,8 @@ We equip individuals and developers with products and APIs for effortlessly use 
 - **[WebLN Guide](https://www.webln.guide/):** This guide covers how to build a Bitcoin Lightning-driven web application using the WebLN standard.
 
 ### Our Products:
-- ✨ **[Alby Hub](https://albyhub.com):** Self-custodial Lightning wallet with easy channel management, subwallets, direct app connections and card-based topups.
-- 🌐 **[Alby Browser Extension](https://getalby.com/products/browser-extension):** Lightning integration to the web, wallet management & control, keys handling.
+- ✨ **[Alby Hub](https://albyhub.com):** Self-custodial Lightning wallet with easy channel management, sub-wallets, direct app connections and card-based top-ups.
+- 🌐 **[Alby Browser Extension](https://getalby.com/products/browser-extension):** Your gateway to the web of Bitcoin and Nostr apps, connect multiple wallets & store your keys.
 - 📲 **[Alby Go](https://albygo.com/):** The easiest mobile app to use bitcoin on the Go!
 - 👨‍🔬 **Alby labs**: Various innovative apps and plugins - ⚡[ZapPlanner - recurrent lightning payments](https://zapplanner.albylabs.com/),  ⚡[SATurn boostagram dashboard](https://saturn.fly.dev/), ⚡[PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, ⚡[Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com) 
 
