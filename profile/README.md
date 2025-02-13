@@ -24,13 +24,13 @@ We equip individuals and developers with products and APIs for effortlessly use 
 - ✨ **[Alby Hub](https://albyhub.com):** Self-custodial Lightning wallet with easy channel management, sub-wallets, direct app connections and card-based top-ups.
 - 🌐 **[Alby Browser Extension](https://getalby.com/products/browser-extension):** Your gateway to the web of Bitcoin and Nostr apps, connect multiple wallets, use & store your keys.
 - 📲 **[Alby Go](https://albygo.com/):** The easiest mobile app to use bitcoin on the Go!
-- 👨‍🔬 **Alby Labs**: Various innovative apps and plugins - ⚡[ZapPlanner - recurrent lightning payments](https://zapplanner.albylabs.com/),  ⚡[SATurn boostagram dashboard](https://saturn.fly.dev/), ⚡[PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, ⚡[Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com) 
+- 👨‍🔬 **Alby Labs**: Various innovative apps and plugins - ⚡[ZapPlanner - recurrent lightning payments](https://zapplanner.albylabs.com/),  ⚡[SATurn boostagram dashboard](https://saturn.fly.dev/), ⚡[PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, ⚡[Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com), ⚡[BuzzPay](https://pos.albylabs.com/) - minimalistic Point-of-sale app for NWC wallets 
 
 ### For Developers
 - 👨‍💻 **[DEVELOPER PORTAL](https://getalby.com/developer)** Find all necessary building blocks to easily create Bitcoin-powered apps and websites.
 - 🔌 **[Nostr Wallet Connect](https://nwc.dev):** Connect apps to control lightning node or wallet over Nostr (NIP-47).
 - 🟦 **[Bitcoin Connect](https://bitcoin-connect.com/):** Enable users to connect their wallet to lightning-powered websites on any browser.
-- **[Lightning Tools](https://github.com/getAlby/js-lightning-tools):** Set of helpful tools to develop lightning web apps.
+- **[Lightning Tools](https://github.com/getAlby/js-lightning-tools):** NPM package with helpful tools to develop lightning web apps.
 - **[Alby JS SDK](https://github.com/getAlby/js-sdk):** JavaScript SDK for the Alby OAuth2 Wallet API & the Nostr Wallet Connect API.
 - **[LndHub.go](https://github.com/getAlby/lndhub.go):** Accounting wrapper for the Lightning Network, provides separate accounts for end-users.
 - **[WebLN Guide](https://www.webln.guide/):** This guide covers how to build a Bitcoin Lightning-driven web application using the WebLN standard.
