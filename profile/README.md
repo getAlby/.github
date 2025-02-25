@@ -8,7 +8,7 @@
 ## Welcome to Alby! 👋
 
 We envision a world where everyone can seamlessly send and receive value, just as easily as sharing information on the web today.
-That’s why we’re empowering consumers and developers with easy-to-use bitcoin payment tools using the Lightning Network - the future protocol of money – everywhere: on the web in mobile apps and the real world.
+That’s why we’re empowering consumers and developers with easy-to-use bitcoin payment tools using the lightning network - the future protocol of money – everywhere: on the web in mobile apps and the real world.
 🐝
 
 ### Key Features:
