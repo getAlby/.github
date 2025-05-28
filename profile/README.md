@@ -55,7 +55,7 @@ For any other question, book a private call with experts in our team.
 
 📝 [Feedback Board](https://getalby.com/feedback)
 
-🤓 [User guides](https://guides.getalby.com/user-guide/)  
+🤓 [User guides](https://guides.getalby.com/user-guide/) , [Developer guides](https://guides.getalby.com/developer-guide/) 
 
 📞 [Support](https://support.getalby.com/)  
 
