@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/getAlby/lightning-browser-extension/51430e7d6b6076f6f336269acb1dc3928c4ced0f/doc/logo-white.svg" media="(prefers-color-scheme: dark)" width="300">
-    <img alt="Alby Logo" src="https://raw.githubusercontent.com/getAlby/lightning-browser-extension/51430e7d6b6076f6f336269acb1dc3928c4ced0f/doc/logo-black.svg" width="300">
-  </picture>
-</p>
-
 ## Welcome to Alby! 👋
 
 We envision a world where everyone can seamlessly send and receive value, just as easily as sharing information on the web today.
