@@ -4,6 +4,9 @@ We envision a world where everyone can seamlessly send and receive value, just a
 That’s why we’re empowering consumers and developers with easy-to-use bitcoin payment tools using the lightning network - the future protocol of money – everywhere: on the web in mobile apps and the real world.
 🐝
 
+<img width="2411" height="1001" alt="image" src="https://github.com/user-attachments/assets/e0914f83-fa4a-410a-8fa5-738814b1d0bd" />
+
+
 ### Key Features:
 
 - 🧩 **Interoperable** We are building on open protocols, to enable software easily work with each other and fully leverage the potential of bitcoin.
