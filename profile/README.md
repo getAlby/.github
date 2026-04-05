@@ -4,9 +4,6 @@ We envision a world where everyone can seamlessly send and receive value, just a
 
 That’s why we empower consumers, businesses and developers with powerful and easy to use bitcoin payment tools everywhere: on the web, in mobile apps, and in the real world. 🐝
 
-<img width="2411" height="1001" alt="image" src="https://github.com/user-attachments/assets/e0914f83-fa4a-410a-8fa5-738814b1d0bd" />
-
-
 ### Key Features:
 
 - 😌 **Ease of use**: Our products abstract away complex network interaction. With Alby, every web developer is a bitcoin developer.
