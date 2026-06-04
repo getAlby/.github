@@ -24,21 +24,6 @@ That’s why we empower consumers, businesses and developers with powerful and e
 - 🔌 **[Nostr Wallet Connect](https://nwc.dev):** Connect lightning wallets to apps over an open protocol.
 - 🌐 **[WebLN Guide](https://www.webln.guide/):** This guide covers how to build a bitcoin lightning-driven web application using the WebLN standard.
 
-
-
-
-<br></br>
-**Let's talk!**
-👥 Every last Thursday per month we are hosting our [Community Calls](https://cal.com/getalby/communitycall), in which our team, users and builders come together to discuss updates in the space, demo new projects and get feedback. 
-For any other question, book a private call with experts in our team.
-
-<p align="center">
- <a href="https://cal.com/getalby">
-<img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" /></a>
-</p>
-
-
-
 ### Useful links
 💬 [Community Discord](https://discord.getalby.com)
 
