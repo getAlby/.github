@@ -13,7 +13,7 @@ That’s why we empower consumers, businesses and developers with powerful and e
  
 ### Our Products:
 - ✨ **[Alby Hub](https://albyhub.com):** Self-custodial bitcoin lightning wallet with easy channel management, sub-wallets, direct app connections and card-based top-ups.
-- 🌐 **[Alby Browser Extension](https://getalby.com/products/browser-extension):** Your gateway to the web of bitcoin and Nostr apps, connect multiple wallets, use & store your keys.
+- 🌐 **[Alby Browser Extension](https://getalby.com/alby-extension):** Your gateway to the web of bitcoin and Nostr apps, connect multiple wallets, use & store your keys.
 - 📲 **[Alby Go](https://albygo.com/):** The easiest mobile app to use bitcoin on the Go!
 - 👨‍🔬 **Alby Labs**: Various innovative apps and plugins - ⚡[Developer Sandbox - build and test apps with bitcoin payments](https://sandbox.albylabs.com/),⚡[ZapPlanner - recurrent lightning payments](https://zapplanner.albylabs.com/), ⚡[PkgZap](https://pkgzap.albylabs.com/) tipping npm dependencies, ⚡[Bitcoin Lightning Publisher for Wordpress](https://wordpress.org/plugins/bitcoin-lightning-publisher/?ref=blog.getalby.com), ⚡[BuzzPay](https://pos.albylabs.com/) - minimalistic point-of-sale app for NWC wallets 
 
